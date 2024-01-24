@@ -1,0 +1,15 @@
+body{
+    color: rgb(151, 124, 195);
+    background-color: rgb(74, 43, 169);
+}
+.footer{
+    background-color: beige;
+}
+#startsound{
+    width: 90px;
+    height: 50px;
+    background-color: rgb(116, 147, 194);
+    color: aliceblue;
+    border-color: aliceblue;
+    border-radius: 30%;
+}
